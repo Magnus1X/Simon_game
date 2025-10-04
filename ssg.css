@@ -1,0 +1,40 @@
+body
+{
+   text-align: center; 
+   background-color: blanchedalmond ;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.yellow,.green,.red,.purple{
+    height:80px;
+    width: 80px;
+    margin: 15px;
+    border: 2px,solid black;
+    border-radius: 20%;
+
+}
+.yellow
+{
+    background-color: yellow;
+}
+.red
+{
+    background-color: red;
+}
+.purple
+{
+    background-color: plum;
+}
+.green
+{
+    background-color: greenyellow;
+}
+.flashwhite{
+    background-color: white;
+}
+.flashgreen{
+    background-color: rgb(4, 54, 4);
+}
